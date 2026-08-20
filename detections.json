@@ -1,0 +1,42 @@
+[
+    {
+        "id": "DET-001",
+        "name": "DET-001",
+        "threat": "High",
+        "description": "",
+        "lat": 17.476432197195518,
+        "lng": 74.48730468750001
+    },
+    {
+        "id": "DET-002",
+        "name": "DET-002",
+        "threat": "High",
+        "description": "\n            ",
+        "lat": 12.897489183755892,
+        "lng": 76.06933593750001
+    },
+    {
+        "id": "DET-003",
+        "name": "DET-003",
+        "threat": "High",
+        "description": "\n            ",
+        "lat": 16.97274101999902,
+        "lng": 76.90429687500001
+    },
+    {
+        "id": "DET-004",
+        "name": "DET-004",
+        "threat": "High",
+        "description": "\n            ",
+        "lat": 20.756113874762082,
+        "lng": 76.15722656250001
+    },
+    {
+        "id": "DET-005",
+        "name": "DET-005",
+        "threat": "High",
+        "description": "",
+        "lat": 24.686952411999155,
+        "lng": 75.9814453125
+    }
+]
